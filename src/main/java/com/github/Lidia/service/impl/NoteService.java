@@ -1,6 +1,6 @@
-package com.github.yuliyaks.service;
+package com.github.Lidia.service;
 
-import com.github.yuliyaks.model.Note;
+import com.github.Lidia.model.Note;
 
 import java.util.List;
 
