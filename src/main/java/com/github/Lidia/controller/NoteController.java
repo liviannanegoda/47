@@ -1,8 +1,8 @@
-package com.github.yuliyaks.controller;
+package com.github.Lidia.controller;
 
 import lombok.RequiredArgsConstructor;
-import com.github.yuliyaks.model.Note;
-import com.github.yuliyaks.service.NoteService;
+import com.github.Lidia.model.Note;
+import com.github.Lidia.service.NoteService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
