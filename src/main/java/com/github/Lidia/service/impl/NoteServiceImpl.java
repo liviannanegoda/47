@@ -1,9 +1,9 @@
-package com.github.yuliyaks.service.impl;
+package com.github.Lidia.service.impl;
 
 import lombok.RequiredArgsConstructor;
-import com.github.yuliyaks.repository.NoteRepository;
-import com.github.yuliyaks.model.Note;
-import com.github.yuliyaks.service.NoteService;
+import com.github.Lidia.repository.NoteRepository;
+import com.github.Lidia.model.Note;
+import com.github.Lidia.service.NoteService;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDateTime;
