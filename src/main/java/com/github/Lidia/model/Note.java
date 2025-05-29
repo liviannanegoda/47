@@ -1,4 +1,4 @@
-package com.github.yuliyaks.model;
+package com.github.Lidia.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
