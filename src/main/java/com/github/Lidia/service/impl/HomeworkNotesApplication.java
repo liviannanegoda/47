@@ -1,4 +1,4 @@
-package com.github.yuliyaks;
+package com.github.Lidia;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
